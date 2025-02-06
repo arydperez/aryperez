@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ary Perez - IT Consultant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            margin-top: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #666;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="1linkdin pic.jpg" alt="Ary Perez">
+        <h1>Ary Perez</h1>
+        <h2>IT Consultant | Business Intelligence Specialist</h2>
+        
+        <p>Forward-thinking IT professional with over 15 years of expertise in software integrations
+           and BI development. Proven success in designing and deploying Business Intelligence
+           solutions, integrating ERP systems, and streamlining operations for scalability and growth.</p>
+        
+        <h2>Skills & Expertise</h2>
+        <p>✔ Business Intelligence Solutions<br>
+           ✔ Software & ERP Integration (SAP, PeopleSoft, Syacc)<br>
+           ✔ Data Analysis & Visualization (Power BI, Crystal Reports XI)<br>
+           ✔ Project Management (PMP Certified)<br>
+           ✔ Manufacturing & Distribution Operations</p>
+        
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:arydperez@gmail.com">arydperez@gmail.com</a><br>
+           LinkedIn: <a href="#">Your LinkedIn Profile</a><br>
+           Location: Ontario, Canada</p>
+    </div>
+</body>
+</html>
